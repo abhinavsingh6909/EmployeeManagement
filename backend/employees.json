@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Aakhya Agarwal",
+    "dept": "Operations",
+    "email": "aakhya@gmail.com",
+    "salary": 2100001
+  },
+  {
+    "id": 2,
+    "name": "Abhinav Singh",
+    "dept": "IT",
+    "email": "abhinavsingh280803@gmail.com",
+    "salary": 2100000
+  }
+]
