@@ -1,15 +1,16 @@
 # Dependencies
 node_modules/
-*/node_modules/
+**/node_modules/
 
 # Production build
 dist/
-*/dist/
+**/dist/
 
 # Environment files
 .env
 .env.local
 .env.*.local
+*.env
 
 # OS generated files
 .DS_Store
